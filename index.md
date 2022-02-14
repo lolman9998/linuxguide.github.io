@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## The Beginner's Guide to Linux
 
 You can use the [editor on GitHub](https://github.com/lolman9998/linuxguide.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
