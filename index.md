@@ -1,8 +1,8 @@
 ## The Beginner's Guide to Linux
 
-You can use the [editor on GitHub](https://github.com/lolman9998/linuxguide.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+So maybe you just got a Steam Deck. Maybe you wanna try to squeeze a bit more performance out of your gaming machine. Or maybe you just had enough bluescreens to last you a lifetime. No matter what your reasoning, this guide is meant to help you take the leap into your new, free operating system.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+NOTE - At the moment, only the SteamOS 3 guide is published. Standard arch-based and ubuntu-based coming up next.
 
 ### Markdown
 
